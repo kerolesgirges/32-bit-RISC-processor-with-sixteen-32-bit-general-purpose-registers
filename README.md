@@ -1,6 +1,6 @@
 # 32-bit-RISC-processor-with-sixteen-32-bit-general-purpose-registers
 ## main project overview 
-![](32bitmicro .jpg)
+![](32bitmic.jpg)
 ## ALU overview
 ![](ALU.jpg)
 ## project instructions 
